@@ -13,7 +13,7 @@
 </head>
 <body>
 <?php
-  error_log("[ERROR]: testing die() function...", 0);
+//  error_log("[ERROR]: testing die() function...", 0);
 //  die();
 ?>
 <div class="container">
